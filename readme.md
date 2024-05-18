@@ -30,8 +30,8 @@ https://movie.douban.com/top250?start=200
 瀑布流加载，全部加载完成后添加选择框
 
 ## json 数据参考
-[douban-top250](src\data\douban-top250.json)
-[imdb-top250](src\data\imdb-top250.json)
+[douban-top250](src/data/douban-top250.json)
+[imdb-top250](src/data/imdb-top250.json)
 
 
 # todo
