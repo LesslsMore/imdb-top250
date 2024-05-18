@@ -1,8 +1,12 @@
-# imdb-top250
+# neodb-top250
+
+## imdb
+
 油猴脚本
 
 访问
 https://www.imdb.com/chart/top/
+
 
 添加选择框
 将选择电影
@@ -16,16 +20,25 @@ https://neodb.social/collection/32vxLimlAAdlXpIUB5ildR
 2023年9月24日 imdb
 https://neodb.social/collection/5xvXArIHR8OeL2vnUKCaCN
 
+2024年5月18日 豆瓣
+https://neodb.social/collection/1VgklQPAGOiwC7EhGFQ891
+
 2023年9月24日 豆瓣
 https://neodb.social/collection/5NYyDNLs8S9yLB0PrxyvfJ
+
+## douban
+
+访问
+https://movie.douban.com/top250?start=200
+瀑布流加载，全部加载完成后添加选择框
 
 # todo
 promise.All
 生产者消费者
-提高抓取速度
+提高抓取速度 保证顺序?
 
-新增豆瓣
 对比缓存
 新增减少
 排名变化
 
+统计时间进度
