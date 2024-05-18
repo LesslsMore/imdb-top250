@@ -1,7 +1,5 @@
 # neodb-top250
-
 ## imdb
-
 油猴脚本
 
 访问
@@ -27,10 +25,14 @@ https://neodb.social/collection/1VgklQPAGOiwC7EhGFQ891
 https://neodb.social/collection/5NYyDNLs8S9yLB0PrxyvfJ
 
 ## douban
-
 访问
 https://movie.douban.com/top250?start=200
 瀑布流加载，全部加载完成后添加选择框
+
+## json 数据参考
+[douban-top250](src\data\douban-top250.json)
+[imdb-top250](src\data\imdb-top250.json)
+
 
 # todo
 promise.All
